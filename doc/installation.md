@@ -9,6 +9,8 @@ This is pretty easy.
 3. get [google credentials for authentication](https://console.cloud.google.com/)
 4. create a .env file as described below
 5. run nodemon
+6. use ngrok or pinggy to mirror your local server to a permanent https URL in the cloud
+7. distribute the https URL to your students and teaching assistants
 
 Sample .env file
 ``` bash
