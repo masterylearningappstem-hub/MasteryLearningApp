@@ -6,4 +6,6 @@ This folder is designed to help you understand how the MLA is implemented so you
 * [Models](./models.md)
 * [Controller](./controller.md)
 * [Views](./views.md)
+* [Release Notes](./release_notes.md)
+
 
